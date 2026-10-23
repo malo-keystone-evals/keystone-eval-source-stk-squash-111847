@@ -1,0 +1,7 @@
+components:
+  - keystone
+base:
+  name: keystone-eval-source-stk-squash-111847
+environments:
+  production:
+    context: rehearsal-cluster
